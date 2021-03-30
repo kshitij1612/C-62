@@ -1,0 +1,45 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: indianred;
+}
+
+.container {
+    text-align: center;
+}
+
+
+/*Start your code from here */
+
+
+#myCarousel {
+    background-color: orangered;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    width: 100%;
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+body {
+    background: rgb(24, 139, 108);
+    background: radial-gradient(circle, rgba(24, 139, 108, 1) 0%, rgba(49, 202, 107, 1) 38%, rgba(0, 212, 255, 1) 100%);
+
+}
